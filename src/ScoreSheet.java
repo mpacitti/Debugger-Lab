@@ -18,7 +18,6 @@ public class ScoreSheet
     score = 0;
     numTurns = 0;
   }
-  
   /**
    * Record the fact that one more turn has been completed
    * and add its score to the total
